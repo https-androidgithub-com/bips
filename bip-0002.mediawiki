@@ -67,8 +67,12 @@ If you are interested in assuming ownership of a BIP, send a message asking to t
 
 The current BIP editors are:
 
+* Bryan Bishop ([[mailto:kanzure@gmail.com|kanzure@gmail.com]])
+* Jon Atack ([[mailto:jon@atack.com|jon@atack.com]])
 * Luke Dashjr ([[mailto:luke_bipeditor@dashjr.org|luke_bipeditor@dashjr.org]])
-* Kalle Alm ([[mailto:karljohan-alm@garage.co.jp|karljohan-alm@garage.co.jp]])
+* Mark "Murch" Erhardt ([[mailto:murch@murch.one|murch@murch.one]])
+* Olaoluwa Osuntokun ([[mailto:laolu32@gmail.com|laolu32@gmail.com]])
+* Ruben Somsen ([[mailto:rsomsen@gmail.com|rsomsen@gmail.com]])
 
 ===BIP Editor Responsibilities & Workflow===
 
@@ -97,6 +101,8 @@ The BIP editor will:
 * List the BIP in [[README.mediawiki]]
 
 The BIP editors are intended to fulfill administrative and editorial responsibilities. The BIP editors monitor BIP changes, and update BIP headers as appropriate.
+
+BIP editors may also, at their option, unilaterally make and merge strictly-editorial changes to BIPs, such as correcting misspellings, fixing broken links, etc.
 
 ==BIP format and structure==
 
